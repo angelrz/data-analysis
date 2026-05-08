@@ -6,3 +6,5 @@ plotly
 nbformat
 ipykernel
 google
+kagglehub
+scikit-learn
